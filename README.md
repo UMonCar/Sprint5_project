@@ -1,4 +1,5 @@
 # Sprint5_project
+
 Proyecto realizado para el Sprint 5 del curso Data Analyst de TripleTen:
 
 Se trata de una aplicación desarrollada para mostrar parte de los alcances del host de aplicaciones
@@ -21,8 +22,21 @@ Update 1:
 
 '''
 Update 2:
-    ...
+    Se añadieron diferentes formas de desplegar gráficas, de entre un a lista el usuario puede 
+    seleccionar una gráfica para generar. Además se agregó un histograma para comparar los
+    histogramas de los precios de los diferentes modelos de las diferentes marcas de carros.
+
+    Se agregaron funciones para obtener las marcas de los modelos dependiendo si la entrada es
+    un DataFrame y un Series.
+
+    Se agregó una función para crear DF de dos marcas diferentes para la gáfica de compararación.
 '''
+
+# #############
+# Project URL #
+# #############
+
+https://sprint5-project-61y9.onrender.com
 
 '''
 Update n:
